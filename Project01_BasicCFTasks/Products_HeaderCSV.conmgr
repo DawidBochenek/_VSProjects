@@ -12,7 +12,7 @@
       DTS:RowDelimiter=""
       DTS:TextQualifier="_x003C_none_x003E_"
       DTS:CodePage="1250"
-      DTS:ConnectionString="C:\Users\tomek\Desktop\HD SSIS\Lesson06 SSIS Podstawy2\data\Products_HeaderCSV.csv">
+      DTS:ConnectionString="D:\Users\dawid.bochenek\Downloads\70767DataWarehouse-master\Lesson06 SSIS Basics02\_dane\Products_HeaderCSV.csv">
       <DTS:FlatFileColumns>
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -20,7 +20,7 @@
           DTS:DataType="3"
           DTS:TextQualified="True"
           DTS:ObjectName="SystemID"
-          DTS:DTSID="{35218C33-298E-4055-A8DA-ADE2F0740749}"
+          DTS:DTSID="{FD00E4BB-ED0A-4DBD-83B6-4EE6DBC60264}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -29,7 +29,7 @@
           DTS:DataType="129"
           DTS:TextQualified="True"
           DTS:ObjectName="BusinessID"
-          DTS:DTSID="{461963F9-D2AB-4A26-8E89-5D3D27E9C4CD}"
+          DTS:DTSID="{2B96BFC1-E89A-41CE-8617-833BB0243E65}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -38,7 +38,7 @@
           DTS:DataType="129"
           DTS:TextQualified="True"
           DTS:ObjectName="Name"
-          DTS:DTSID="{AB2AA0CF-4B93-4FE3-AFC2-45D6A826A1BF}"
+          DTS:DTSID="{10064143-BBFE-40BE-AB7B-6DD2A4A8DE2B}"
           DTS:CreationName="" />
         <DTS:FlatFileColumn
           DTS:ColumnType="Delimited"
@@ -47,7 +47,7 @@
           DTS:DataType="129"
           DTS:TextQualified="True"
           DTS:ObjectName="Desc"
-          DTS:DTSID="{B4BB236E-9150-40AB-A86D-B444B05F4174}"
+          DTS:DTSID="{82680347-0433-4322-B16A-109D3F0FA66E}"
           DTS:CreationName="" />
       </DTS:FlatFileColumns>
     </DTS:ConnectionManager>
